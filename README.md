@@ -7,7 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrangadwal10&label=Profile%20views&color=0e75b6&style=flat" alt="imrangadwal10" /> </p>
 
-- My resume [Resume](https://drive.google.com/file/d/1JtdLZiel62sPDZoK5rHsn1Nfpfy9A4kN/view?usp=sharing)
+- 🌱 I’m currently learning **Backend**
+
+- My Portfolio [Portfolio](https://imrangadwal10.github.io/)
+
+- My Resume [Resume](https://drive.google.com/file/d/1JtdLZiel62sPDZoK5rHsn1Nfpfy9A4kN/view?usp=sharing)
+
+- 👨‍💻 All of my projects are available at [https://github.com/imrangadwal10/imrangadwal10](https://github.com/imrangadwal10/imrangadwal10)
+
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **imrangadwal777@gmail.com**
 
