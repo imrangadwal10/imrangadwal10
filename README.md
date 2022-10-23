@@ -33,5 +33,8 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&locale=en" alt="imrangadwal10" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrangadwal10&" alt="imrangadwal10" /></p>
+   <p align="center">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&layout=compact&theme=radical"/>
+</p>
+         
