@@ -24,15 +24,9 @@
 <br></br>
 <h3 align="left"><i>Connect with me:</i></h3>
 
-<a href="https://imrangadwal10.github.io/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://imrangadwal10.github.io/" />
-</a>
-<a title="imrangadwal777@gmail.com" href="imrangadwal777@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="imrangadwal777@gmail.com" />
-</a>
-<a href="www.linkedin.com/in/imran-gadwal">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/imran-gadwal" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/imran-gadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imran-gadwal" height="30" width="40" /></a>
+</p>
 
 <br/>
  <h2><i>Tech Stack</i></h2>
