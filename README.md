@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/imrangadwal10/test/blob/main/github-header-image.png?raw=true)
 
-<h1 align="center">About Me</h1>
+<h1 align="center"><i>About Me</i></h1>
 <h3 align="center">A aspiring Full-Stack Web Developer</h3>
 <h3 style="text-align:center">My name's Imran. I'm an enthusiastic full-stack web-developer with hands-on experience. in creating websites with MERN Stack. I'm an eager learner of new technologies. I'm excited to join a tech company as an accountable a capable employee.</h3>
 <br></br>
@@ -22,10 +22,12 @@
 - 📫 How to reach me **imrangadwal777@gmail.com**
 
 <br></br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/imran-gadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/imran-gadwal" height="30" width="40" /></a>
 </p>
+<br/>
+ <h2><i>Tech Stack</i></h2>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
