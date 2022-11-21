@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/imrangadwal10/test/blob/main/github-header-image.png?raw=true)
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
