@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/imrangadwal10/test/blob/main/github-header-image.png?raw=true)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Imran;  Welcome To My Github Profile; I am a Full-stack%20web%20developer 👨🏻‍💻;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
 <h1 align="center"><i>About Me</i></h1>
 <h3 align="center">A aspiring Full-Stack Web Developer</h3>
 <h3 style="text-align:center">My name's Imran. I'm an enthusiastic full-stack web-developer with hands-on experience. in creating websites with MERN Stack. I'm an eager learner of new technologies. I'm excited to join a tech company as an accountable a capable employee.</h3>
@@ -50,27 +54,31 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
-
-
-
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&locale=en" alt="imrangadwal10" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrangadwal10&" alt="imrangadwal10" /></p>
-   <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&layout=compact&theme=radical"/>
-</p> -->
-         
-
-
-
-
-<p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/imrangadwal10?tab=repositories">
-    <img width="400" height="auto"  alt="Imrans's github stats"  src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&theme=algolia&count_private=true" />
-  </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrangadwal10&hide=smalltalk&theme=algolia&layout=compact" alt="imrangadwal10" />
-</p>
+   <p align="center">      
+  <a href="https://github.com/imrangadwal10/github-readme-stats"><img alt="Imran Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  <br/>
+   <p align="center">
+    <a href="https://github.com/imrangadwal10/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imrangadwal10&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>      
+
+ <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/imrangadwal10/github-readme-stats"><img alt="imrangadwal10 Github Stats" src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
+    </p>                                                                 
+ <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/imrangadwal10/github-readme-activity-graph"><img alt="imrangadwal10 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imrangadwal10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+    
