@@ -83,7 +83,7 @@
 <br/>
 <br/> -->
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrangadwal10&show_icons=true&locale=en&layout=compact" alt="imrangadwal10" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrangadwal10&show_icons=true&locale=en&layout=compact" alt="imrangadwal10" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&locale=en" alt="imrangadwal10" /></p>
 
