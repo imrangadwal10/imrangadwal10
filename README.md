@@ -57,17 +57,17 @@
 </p>
 <br>
   
-   <p align="center">      
-  <a href="https://github.com/imrangadwal10/github-readme-stats"><img alt="Imran Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--    <p align="center">      
+  <a href="https://github.com/imrangadwal10/github-readme-stats"><img alt="Imran Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrangadwal10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  
   <br/>
-   <p align="center">
+<!--    <p align="center">
     <a href="https://github.com/imrangadwal10/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JhaKailash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imrangadwal10&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>      
+</p>       -->
 
- <br/>
+<!--  <br/>
   <br/>
      <p align="center">                                                                                                 
     <a href="https://github.com/imrangadwal10/github-readme-stats"><img alt="imrangadwal10 Github Stats" src="https://github-readme-stats.vercel.app/api?username=imrangadwal10&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jhakailash" /></a>
@@ -81,6 +81,12 @@
 <a href="https://github.com/imrangadwal10/github-readme-activity-graph"><img alt="imrangadwal10 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imrangadwal10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan441&show_icons=true&locale=en&layout=compact" alt="sudarshan441" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshan441&show_icons=true&locale=en" alt="sudarshan441" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan441&" alt="sudarshan441" /></p>
 
     
