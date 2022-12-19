@@ -21,7 +21,7 @@
 
 - My Resume [Resume](https://drive.google.com/file/d/1JtdLZiel62sPDZoK5rHsn1Nfpfy9A4kN/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://github.com/imrangadwal10/imrangadwal10](https://github.com/imrangadwal10/imrangadwal10)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/imrangadwal10/imrangadwal10)
 
 - 💬 Ask me about **MERN Stack**
 
